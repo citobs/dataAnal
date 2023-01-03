@@ -19,3 +19,10 @@
 ## 주유소정보지역별 저장 성공(동적웹크롤링 성공)!
 - autocrawl.py
 - 크롤링 데이터추거(crawldata folder에 있음!)
+
+## 판다스 시작
+ - padans폴더!
+ - 판다스 basic.ipynb완료
+
+## 타이타닉 데이터분석 시작
+ - titanic.csv 분석시작!
