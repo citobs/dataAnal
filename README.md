@@ -18,3 +18,4 @@
 
 ## 주유소정보지역별 저장 성공(동적웹크롤링 성공)!
 - autocrawl.py
+- 크롤링 데이터추거(crawldata folder에 있음!)
