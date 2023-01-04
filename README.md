@@ -34,3 +34,8 @@
 ##  판다스를 이용한 대용량데이터 처리(3200만개의 데이터)
 - bigdataload.ipynb 완료
 - 데이터셋 주소 :https://drive.google.com/file/d/10Am_lQnYbUhACh_z5HKlN-lBRPgoUAFp/view
+
+## 시각화 시작
+- visualization 폴더
+- 기초seaborn사용법 완료(v1.ipynb)
+- 인터랙티브그래프그리기(v2.ipynb):동적그래프
