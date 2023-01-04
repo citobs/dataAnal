@@ -41,3 +41,8 @@
 - 인터랙티브그래프그리기(v2.ipynb):동적그래프
 - dash사용시작 (시작전 pip install jinja2 사용해야함)
 - dashboard 제작 성공 및 마무리!(plotly사용)
+
+
+## data시각화 프로젝트 시작
+- 실전프로젝트 시작
+- #1 RDAP1.ipynb
